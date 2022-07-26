@@ -1,5 +1,5 @@
 # Hi, I'm Micheal 👋🏼
-- 💻 I'm interested in Mobile App Development📱, small mobile games development and Graphic designing.
+- 💻 I'm interested in Mobile App Development📱, small mobile games development and UI Designing.
 - 🌱 I'm currently learning Retrofit, Android animations and Android Architecture Patterns.
 - 💡 **My latest Projects** 👇🏼
 1. [X O Game](https://github.com/micheal1hany/X-O-Android-Game) Android Game.
