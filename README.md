@@ -1,13 +1,13 @@
-# Hi, I'm Micheal 👋🏼
-- 💻 I'm interested in Mobile App Development📱, small mobile games development and UI Designing.
-- 🌱 I'm currently learning FLutter Development with dart and security techniques for mobile dev.
-- 📲 I'm currently working on a loyalty and offers apps in my company
-- ✌🏼 I'm looking to collaborate on Android, IOS Development, UI designing, Graphic designing and small mobile games ideas
-- 🎷 My favorite hobbies is playing music 🎵 reading and researching 📖
-- 📧 You can reach me out by email micheal.hany@outlook.com or socials down 👇🏼
+# Hi, I'm Micheal Hany 👋🏼
+📱 Experienced mobile developer with over 4 years of expertise, proficient in crafting seamless experiences on iOS and Flutter platforms. Specializing in enhancing app security, fortifying reliability, and optimizing performance to deliver smooth and reliable user experiences.
 
-📢 Don't hesitate to ask me anything
+🔒 Committed to staying abreast of the latest methods and technologies to fortify mobile applications against vulnerabilities, ensuring robust security protocols.
 
+🛠️ Recognized for troubleshooting hard bugs, resolving memory leaks, and fine-tuning performance issues across various mobile platforms, guaranteeing exceptional user experiences.
+
+🚀 Proud contributor to open-source Flutter libraries and creator of high-quality SwiftUI project templates, demonstrating dedication to community-driven initiatives and innovation in mobile development.
+
+📧 Let's connect to explore how I can contribute to your team's projects and objectives. Drop me a message at micheal.hany@outlook.com for discussions on mobile development, open-source collaboration, or any tech-related inquiries!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micheal-hany)
